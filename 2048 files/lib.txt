@@ -1,5 +1,9 @@
 REQUIRED LIBRARY FOR THE 2048 PROJECT ARE AS FOLLOWS:
+
 NOTE: THESE LIBRARIES CAN BE DOWNLOADED FROM USING COMMANDS ON CMD PROMPT OR ANACONDA PROMPT 
+
 pyautogui : PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications. It can be downloaded by using the command - pip install pyautogui 
+
 time : It is usually pre installed in python package but can also be downloaded using command - pip install time 
+
 PIL/PILLOW : Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images. The current version identifies and reads a large number of formats. Write support is intentionally restricted to the most commonly used interchange and presentation formats. It can be downloaded by using the command - pip install pillow
