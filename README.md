@@ -22,6 +22,6 @@ IN bot.py :
 IN 2048.py :
 1) pyautogui : PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications.can be installed by using command pip install pyautogui in command prompt or anaconda prompt
 
-2)time : can be installed by using command pip install time in command prompt or anaconda prompt 
+2. time : can be installed by using command pip install time in command prompt or anaconda prompt 
 
-3)pil/pillow: Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images.can be installed by using command pip install pillow in command prompt or anaconda prompt
+3. pil/pillow: Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images.can be installed by using command pip install pillow in command prompt or anaconda prompt
