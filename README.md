@@ -44,4 +44,4 @@ def print_mouse_pos():
 
 
 print_mouse_pos()
-Note: this code is also presemt in the folder.
+Note: this code is also present in the folder.
