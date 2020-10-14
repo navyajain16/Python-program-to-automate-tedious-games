@@ -15,7 +15,7 @@ bot.py : Consists of code for bot of piano tiles
 
 2048.py : Consists of code for bot of 2048 game
 
-### IN FOLDER 
+#### IN FOLDER 
 get_grid.py : to get grid in 2048 
 
 get_mouse_position.py : to get coordinates in all games
