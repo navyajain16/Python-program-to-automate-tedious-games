@@ -15,6 +15,9 @@ bot.py : Consists of code for bot of piano tiles
 
 2048.py : Consists of code for bot of 2048 game
 
+### IN FOLDER 
+get_grid.py : T
+
 ## LIBRARIES USED :
 
 IN bot.py :
