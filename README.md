@@ -4,6 +4,11 @@ THERE ARE 2 DIFFERENT CODES:
 1) ONE CODE IS OF PIANO TILES WHICH TAKES INSTRUCTIONS FROM MOUSE.
 2) SECOND CODE IS OF 2048 WHICH TAKES INSTRUCTIONS FROM KEYBOARD.
 
+LINK FOR GAMES :
+1) 2048 : https://2048game.com/
+2) Piano tiles : http://www.4j.com/Magic-Piano-Online 
+Note: for 2048 coordinates were taken by minimising the window but in piano tiles they were taken with full maximized window in the code.
+
 SCRIPTS :
 
 bot.py : Consists of code for bot of piano tiles 
