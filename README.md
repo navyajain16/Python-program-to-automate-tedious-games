@@ -20,7 +20,7 @@ get_grid.py : to get grid in 2048
 
 get_mouse_position.py : to get coordinates in all games
 
-
+swipe_row.py : for swiping row in 2048
 
 ## LIBRARIES USED :
 
