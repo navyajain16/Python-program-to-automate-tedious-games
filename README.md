@@ -30,3 +30,18 @@ IN 2048.py :
 2. time : can be installed by using command pip install time in command prompt or anaconda prompt 
 
 3. pil/pillow: Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images.can be installed by using command pip install pillow in command prompt or anaconda prompt
+
+HOW TO GET COORDINATES FOR ANY GAME :
+
+import pyautogui
+import time
+
+# get cordinates of grids
+def print_mouse_pos():
+    while True:
+        print(pyautogui.position())
+        time.sleep(1)
+
+
+print_mouse_pos()
+Note: this code is also presemt in the folder.
