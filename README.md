@@ -34,7 +34,7 @@ IN 2048.py :
 ## HOW TO GET COORDINATES FOR ANY GAME :
 
 import pyautogui
-
+ 
 import time
 
 
